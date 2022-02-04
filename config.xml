@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <config>
-    <FLASHSITE value="https://GunVip.Com.Vn/Flash/" />
-    <BACKUP_FLASHSITE value="https://GunVip.Com.Vn/Flash/" />
+    <FLASHSITE value="https://ddtankvn.github.io/" />
+    <BACKUP_FLASHSITE value="https://ddtankvn.github.io/" />
     <!-- 是否使用md5头校验 -->
     <USE_MD5 value="false" />
     <SITE value="https://GunVip.Com.Vn/Resource/" />
@@ -11,7 +11,7 @@
     <REQUEST_PATH value="https://GunVip.Com.Vn/Request/" />
     <LOGIN_PATH value="https://www.facebook.com/groups/GunVip.Com.Vn" siteName="风云弹弹堂" />
     <FILL_PATH value="https://GunVip.Com.Vn/" />
-	<WEEKLYSITE value="https://GunVip.Com.Vn/flash/" />
+	<WEEKLYSITE value="https://ddtankvn.github.io/" />
     <POLICY_FILES>
       <file value="https://GunVip.Com.Vn/Resource/crossdomain.xml" />
     </POLICY_FILES>
